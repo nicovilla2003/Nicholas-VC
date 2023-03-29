@@ -10,7 +10,7 @@ public class narutoJutsu{
 	int sesEntren=0;
 	int horas;
 	while(cont==JOptionPane.YES_OPTION){
-	
+	//ACA HAY UN CAMBIO
 	
 	sesEntren++;
 	JOptionPane.showMessageDialog(null,"Esta es la sesion de entrenamiento: "+sesEntren);
